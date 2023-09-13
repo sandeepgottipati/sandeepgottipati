@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot and reactjs**
 
-- 👨‍💻 All of my projects are available at [sandeep-gottipati-portfolio.netlify.app/](sandeep-gottipati-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [sandeep-gottipati-portfolio.netlify.app/](https://sandeep-gottipati-portfolio.netlify.app/)
 
 - 💬 Ask me about **javascript,java,react.js**
 

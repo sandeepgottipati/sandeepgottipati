@@ -43,5 +43,6 @@
 
 [Restaurant Menu](https://github.com/sandeepgottipati/RestaurantMenu) -- [Live demo](https://snazzy-sfogliatella-9666cc.netlify.app/)
 
-[Mix Master](https://github.com/sandeepgottipati/MixMaster)  --- [Live Demo](https://gleeful-pithivier-dcb880.netlify.app/) <br/>
-[TIC-TAC-TOE]---(https://aesthetic-cuchufli-195da2.netlify.app/)
+[Mix Master](https://github.com/sandeepgottipati/MixMaster)  --- [Live Demo](https://gleeful-pithivier-dcb880.netlify.app/) 
+<br/>
+[TIC-TAC-TOE] --- [Live Demo] (https://aesthetic-cuchufli-195da2.netlify.app/)

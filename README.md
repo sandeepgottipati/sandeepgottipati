@@ -45,4 +45,4 @@
 
 [Mix Master](https://github.com/sandeepgottipati/MixMaster)  --- [Live Demo](https://gleeful-pithivier-dcb880.netlify.app/) 
 <br/>
-[TIC-TAC-TOE] --- [Live Demo] (https://aesthetic-cuchufli-195da2.netlify.app/)
+[TIC-TAC-TOE](https://github.com/sandeepgottipati/tic-tac-toe-react) --- [Live Demo](https://aesthetic-cuchufli-195da2.netlify.app/)

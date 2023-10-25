@@ -10,7 +10,7 @@
 - 💬 Ask me about **javascript,java,react.js**
 
 - 📫 How to reach me **gottipati.saisandeep@gmail.com**
--  Cloth Store App [https://653985d6bbec743a61c045de--warm-valkyrie-49c94c.netlify.app/] (https://653985d6bbec743a61c045de--warm-valkyrie-49c94c.netlify.app/)
+-  Cloth Store App [LINK](https://653985d6bbec743a61c045de--warm-valkyrie-49c94c.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sandeep-gottipati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sandeep-gottipati/" height="30" width="40" /></a>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgottipati&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgottipati" /> </p>
 
-- 🌱 I’m proficient in Devloping Application using **SpringBoot and reactjs**
+- 🌱 I’m proficient in Developing Full Stack Web Applications using **SpringBoot and reactjs**
 
 - 👨‍💻 All of my projects are available at [https://sandeep-gottipati-portfolio.netlify.app/](https://sandeep-gottipati-portfolio.netlify.app/)
 

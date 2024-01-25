@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgottipati&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgottipati" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot and reactjs**
+- 🌱 I’m proficient in Devloping Application using **SpringBoot and reactjs**
 
 - 👨‍💻 All of my projects are available at [https://sandeep-gottipati-portfolio.netlify.app/](https://sandeep-gottipati-portfolio.netlify.app/)
 
-- 💬 Ask me about **javascript,java,react.js**
+- 💬 Ask me about **javascript,java,SpringBoot,react.js**
 
 - 📫 How to reach me **gottipati.saisandeep@gmail.com**
 -  Cloth Store App [LINK](https://653985d6bbec743a61c045de--warm-valkyrie-49c94c.netlify.app/)
@@ -29,20 +29,4 @@
 
 [Covid Detection using Cough Signals](https://github.com/sandeepgottipati/COVID-19-detection-using-Cough-recorded-through-smartphone-using-machine-learning-algorithms)
 
-**React Projects**
 
-[unsplashImages](https://github.com/sandeepgottipati/unspalashImages) -- [Live Demo](https://flourishing-moonbeam-548092.netlify.app/)
-
-[BackRoads APP](https://github.com/sandeepgottipati/backroads-app) 
-
-[GroceryBud](https://chic-beignet-29a9f4.netlify.app/)
-
-[Strapi](https://github.com/sandeepgottipati/Strapi) --  [Live demo](https://mellifluous-profiterole-95c121.netlify.app/)
-
-[colorGenerator](https://github.com/sandeepgottipati/ColorGenerator) -- [Live demo](https://wonderful-dasik-a0d30b.netlify.app/)
-
-[Restaurant Menu](https://github.com/sandeepgottipati/RestaurantMenu) -- [Live demo](https://snazzy-sfogliatella-9666cc.netlify.app/)
-
-[Mix Master](https://github.com/sandeepgottipati/MixMaster)  --- [Live Demo](https://gleeful-pithivier-dcb880.netlify.app/) 
-<br/>
-[TIC-TAC-TOE](https://github.com/sandeepgottipati/tic-tac-toe-react) --- [Live Demo](https://aesthetic-cuchufli-195da2.netlify.app/)

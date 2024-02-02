@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and Docker.**
 
-- 👨‍💻 All of my projects are available at(https://sandeep-gottipati-portfolio.netlify.app/]
+- 👨‍💻 All of my projects are available at [link](https://sandeep-gottipati-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, SpringBoot, Microservices,React.js**
 

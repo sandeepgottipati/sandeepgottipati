@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sandeep Gottipati</h1>
-<h3 align="center">A passionate Full-Stack Java developer from Texas,USA.</h3>
+<h3 align="center">A passionate Full-Stack Java developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgottipati&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgottipati" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes and Docker.**
-
-- 👨‍💻 All of my projects are available at [link](https://sandeep-gottipati-portfolio.netlify.app/)
+- 🌱 I’m currently learning **Go Language and building projects.**
 
 - 💬 Ask me about **Java, SpringBoot, Microservices,React.js**
 
-- 📫 How to reach me **gottipati.saisandeep@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev_stack7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_stack7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep-gottipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-gottipati" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/snchowdary7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snchowdary7" height="30" width="40" /></a>
 </p>
 
